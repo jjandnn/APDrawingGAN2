@@ -8,8 +8,10 @@ This project generates artistic portrait drawings from face photos using a GAN-b
 You may find useful information in [preprocessing steps](preprocess/readme.md) and [training/testing tips](docs/tips.md).
 
 注意：
+
 转化你自己的图片可以直接使用我的 colab 。我已将原来繁琐的五个步骤，利用 octave、pytorchhub 简化为线上的一键。
-在 colab 上不用安装原作的依赖，我已经升级为最新版适配。
+
+在 colab 上不用安装原作的依赖，我已经将源程序的适配升级为colab最新版。
 
 
 ## Our Proposed Framework
