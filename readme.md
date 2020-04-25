@@ -7,7 +7,9 @@ It is a journal extension of our previous CVPR 2019 work [APDrawingGAN](https://
 This project generates artistic portrait drawings from face photos using a GAN-based model.
 You may find useful information in [preprocessing steps](preprocess/readme.md) and [training/testing tips](docs/tips.md).
 
-注意：转化图片可以直接使用我的 colab ，已经将繁琐的五个步骤，简化为线上的一键，利用的是 octave、pytorchhub 。
+注意：
+转化你自己的图片可以直接使用我的 colab 。我已将原来繁琐的五个步骤，利用 octave、pytorchhub 简化为线上的一键。
+在 colab 上不用安装原作的依赖，我已经升级为最新版适配。
 
 
 ## Our Proposed Framework
