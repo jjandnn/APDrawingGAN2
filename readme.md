@@ -11,7 +11,7 @@ You may find useful information in [preprocessing steps](preprocess/readme.md) a
 
 转化你自己的图片可以直接使用我的 colab 。我已将原来繁琐的五个步骤，利用 octave、pytorchhub 简化为线上的一键。
 
-在 colab 上不用安装原作的依赖，我已经将源程序的适配升级为colab最新版。
+在 colab 上不用安装原作的依赖，已改成源程序的适配 colab 的最新版。
 
 预训练模型的质量：见 colab 尾部。
 
