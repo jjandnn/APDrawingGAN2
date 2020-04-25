@@ -13,6 +13,8 @@ You may find useful information in [preprocessing steps](preprocess/readme.md) a
 
 在 colab 上不用安装原作的依赖，我已经将源程序的适配升级为colab最新版。
 
+预训练模型的质量：见 colab 尾部。
+
 
 ## Our Proposed Framework
  
