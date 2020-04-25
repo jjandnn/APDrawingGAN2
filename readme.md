@@ -15,6 +15,8 @@ You may find useful information in [preprocessing steps](preprocess/readme.md) a
 
 预训练模型的质量：见 colab 尾部。
 
+声明：改动部分不涉及任何非公开授权的数据与版权。
+
 
 ## Our Proposed Framework
  
